@@ -1,5 +1,5 @@
 # githubAPI
-![build status of master](https://app.circleci.com/pipelines/github/Pranav100198/githubAPI?branch=circleci-project-setup)
+![build status of master](https://app.travis-ci.com/RK-ops/GithubAPI567.svg?branch=main)
 
 SSW567 
 HW04a
